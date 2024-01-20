@@ -8,4 +8,4 @@ CRN: 22280
 
 Here is the link to the document with description: https://docs.google.com/document/d/1da5PFHr621q_k4tMjDuzhS743EGOa_UK/edit?usp=sharing&ouid=114262675853169916496&rtpof=true&sd=true
 
-Here is the link to the video recording:
+Here is the link to the video recording:https://drive.google.com/file/d/1dVo8_ToM3wGBWeeDTg0cP8dJpc4VHbXH/view?usp=sharing
